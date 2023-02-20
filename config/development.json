@@ -1,0 +1,9 @@
+{
+  "environment": {
+    "env": "development"
+  },
+  "logs": {
+    "open": true,
+    "level": "info"
+  }
+}

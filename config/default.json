@@ -1,0 +1,6 @@
+{
+  "environment": {
+    "env": "debug",
+    "port": 3000
+  }
+}

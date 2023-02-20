@@ -1,0 +1,10 @@
+{
+  "environment": {
+    "env": "production",
+    "port": 8086
+  },
+  "logs": {
+    "open": false,
+    "level": "info"
+  }
+}
