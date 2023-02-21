@@ -5,7 +5,7 @@ const koaBodyParser = require('koa-bodyparser');
 const views = require('koa-views');
 const ejs = require('ejs');
 
-const router = require('./routers');
+const router = require('./routes');
 
 // 环境变量
 const config = require('config');
